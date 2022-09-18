@@ -82,17 +82,18 @@ void loop(){
 }
 ```
 ### Distance vs measurement table 
+![190161463-aab9b786-9003-452d-82a6-ff7244f9d24c](https://user-images.githubusercontent.com/94219582/190888921-d5891f4a-ba12-4a09-b48f-cd8c5d48ef4b.png)
+### Circuit Diagram
+![circuit 4](https://user-images.githubusercontent.com/94219582/190888981-48726224-f9c6-4ba8-9c3b-a243d32e9feb.png)
 
-
-
-
+### Serial Monitor:
+![serial monitor 4](https://user-images.githubusercontent.com/94219582/190888928-0d6b8d7c-f919-4a5c-87ca-d28cfbfa12c5.png)
 ### Average error = sum/ number of readings
-### Average error = sum/ number of readings
-
-
+```
+              = 0.5+0.7+0.4+0.8+1.0
+         =  3.4/5
+	 =  0.68
+  ```
 
 ### RESULTS
-
-
-
- 
+Thus the distance value is measured in "CM" using ultrasonic sensor
